@@ -39,8 +39,9 @@ The motor model cannot be "ideal." It must include:
 * **Reflected Inertia:** The system must compute $J_{total} = J_{rotor} + (\frac{J_{wheel} + J_{gear}}{N^2})$. This is the primary parameter we need to monitor to avoid "sluggish" balancing.
 
 ## 6. Required Project Structure
+Create Context, src, urdf, and other directories in curreent Bobot_3_Simulation directory, dont create additiona lsubdirectory like bobot_sim.
 ```text
-bobot_sim/
+.
 ├── Context/
 │   └── Bobot3_MainContext.md  # Keep the original requirement spec here
 ├── src/

@@ -1,0 +1,23 @@
+{
+  "backlash_deg": 0.0,
+  "backlash_impact_gain": 4.0,
+  "battery_internal_r": 0.12,
+  "battery_max_current_a": 15.0,
+  "battery_nominal_v": 18.05,
+  "battery_z_m": 0.0,
+  "belt_ratio": 1.0,
+  "control_polarity": -1.0,
+  "disturbance_torque_nm": 0.0,
+  "drive_mode": 3.0,
+  "max_torque_nm": 0.9,
+  "motor_ke_v_per_rad_s": 0.08,
+  "motor_kt_nm_per_a": 0.08,
+  "motor_phase_r_ohm": 0.35,
+  "pid_kd": 4.0,
+  "pid_ki": 2.0,
+  "pid_kp": 55.0,
+  "reducer_ratio": 1.0,
+  "reset_tilt_deg": 20.0,
+  "saved_at": "2026-04-15T01:40:28",
+  "target_pitch_deg": 0.0
+}
